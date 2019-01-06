@@ -1,0 +1,11 @@
+/Users/kstanoev/programming/academy-alpha/net/strings/intro/bin/Debug/netcoreapp2.1/intro.deps.json
+/Users/kstanoev/programming/academy-alpha/net/strings/intro/bin/Debug/netcoreapp2.1/intro.runtimeconfig.json
+/Users/kstanoev/programming/academy-alpha/net/strings/intro/bin/Debug/netcoreapp2.1/intro.runtimeconfig.dev.json
+/Users/kstanoev/programming/academy-alpha/net/strings/intro/bin/Debug/netcoreapp2.1/intro.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/intro/bin/Debug/netcoreapp2.1/intro.pdb
+/Users/kstanoev/programming/academy-alpha/net/strings/intro/obj/Debug/netcoreapp2.1/intro.csprojAssemblyReference.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/intro/obj/Debug/netcoreapp2.1/intro.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/intro/obj/Debug/netcoreapp2.1/intro.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/intro/obj/Debug/netcoreapp2.1/intro.AssemblyInfo.cs
+/Users/kstanoev/programming/academy-alpha/net/strings/intro/obj/Debug/netcoreapp2.1/intro.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/intro/obj/Debug/netcoreapp2.1/intro.pdb

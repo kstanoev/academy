@@ -1,0 +1,11 @@
+/Users/kstanoev/programming/academy-alpha/net/strings/occurring-character/bin/Debug/netcoreapp2.1/occurring-character.deps.json
+/Users/kstanoev/programming/academy-alpha/net/strings/occurring-character/bin/Debug/netcoreapp2.1/occurring-character.runtimeconfig.json
+/Users/kstanoev/programming/academy-alpha/net/strings/occurring-character/bin/Debug/netcoreapp2.1/occurring-character.runtimeconfig.dev.json
+/Users/kstanoev/programming/academy-alpha/net/strings/occurring-character/bin/Debug/netcoreapp2.1/occurring-character.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/occurring-character/bin/Debug/netcoreapp2.1/occurring-character.pdb
+/Users/kstanoev/programming/academy-alpha/net/strings/occurring-character/obj/Debug/netcoreapp2.1/occurring-character.csprojAssemblyReference.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/occurring-character/obj/Debug/netcoreapp2.1/occurring-character.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/occurring-character/obj/Debug/netcoreapp2.1/occurring-character.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/occurring-character/obj/Debug/netcoreapp2.1/occurring-character.AssemblyInfo.cs
+/Users/kstanoev/programming/academy-alpha/net/strings/occurring-character/obj/Debug/netcoreapp2.1/occurring-character.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/occurring-character/obj/Debug/netcoreapp2.1/occurring-character.pdb

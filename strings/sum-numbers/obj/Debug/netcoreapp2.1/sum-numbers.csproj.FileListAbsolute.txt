@@ -1,0 +1,11 @@
+/Users/kstanoev/programming/academy-alpha/net/strings/sum-numbers/bin/Debug/netcoreapp2.1/sum-numbers.deps.json
+/Users/kstanoev/programming/academy-alpha/net/strings/sum-numbers/bin/Debug/netcoreapp2.1/sum-numbers.runtimeconfig.json
+/Users/kstanoev/programming/academy-alpha/net/strings/sum-numbers/bin/Debug/netcoreapp2.1/sum-numbers.runtimeconfig.dev.json
+/Users/kstanoev/programming/academy-alpha/net/strings/sum-numbers/bin/Debug/netcoreapp2.1/sum-numbers.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/sum-numbers/bin/Debug/netcoreapp2.1/sum-numbers.pdb
+/Users/kstanoev/programming/academy-alpha/net/strings/sum-numbers/obj/Debug/netcoreapp2.1/sum-numbers.csprojAssemblyReference.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/sum-numbers/obj/Debug/netcoreapp2.1/sum-numbers.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/sum-numbers/obj/Debug/netcoreapp2.1/sum-numbers.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/sum-numbers/obj/Debug/netcoreapp2.1/sum-numbers.AssemblyInfo.cs
+/Users/kstanoev/programming/academy-alpha/net/strings/sum-numbers/obj/Debug/netcoreapp2.1/sum-numbers.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/sum-numbers/obj/Debug/netcoreapp2.1/sum-numbers.pdb
