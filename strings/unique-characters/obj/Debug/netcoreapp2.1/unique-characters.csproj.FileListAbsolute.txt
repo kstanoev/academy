@@ -1,0 +1,11 @@
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-characters/bin/Debug/netcoreapp2.1/unique-characters.deps.json
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-characters/bin/Debug/netcoreapp2.1/unique-characters.runtimeconfig.json
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-characters/bin/Debug/netcoreapp2.1/unique-characters.runtimeconfig.dev.json
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-characters/bin/Debug/netcoreapp2.1/unique-characters.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-characters/bin/Debug/netcoreapp2.1/unique-characters.pdb
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-characters/obj/Debug/netcoreapp2.1/unique-characters.csprojAssemblyReference.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-characters/obj/Debug/netcoreapp2.1/unique-characters.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-characters/obj/Debug/netcoreapp2.1/unique-characters.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-characters/obj/Debug/netcoreapp2.1/unique-characters.AssemblyInfo.cs
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-characters/obj/Debug/netcoreapp2.1/unique-characters.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-characters/obj/Debug/netcoreapp2.1/unique-characters.pdb

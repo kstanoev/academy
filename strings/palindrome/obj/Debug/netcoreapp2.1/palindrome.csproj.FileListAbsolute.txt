@@ -1,0 +1,11 @@
+/Users/kstanoev/programming/academy-alpha/net/strings/palindrome/bin/Debug/netcoreapp2.1/palindrome.deps.json
+/Users/kstanoev/programming/academy-alpha/net/strings/palindrome/bin/Debug/netcoreapp2.1/palindrome.runtimeconfig.json
+/Users/kstanoev/programming/academy-alpha/net/strings/palindrome/bin/Debug/netcoreapp2.1/palindrome.runtimeconfig.dev.json
+/Users/kstanoev/programming/academy-alpha/net/strings/palindrome/bin/Debug/netcoreapp2.1/palindrome.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/palindrome/bin/Debug/netcoreapp2.1/palindrome.pdb
+/Users/kstanoev/programming/academy-alpha/net/strings/palindrome/obj/Debug/netcoreapp2.1/palindrome.csprojAssemblyReference.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/palindrome/obj/Debug/netcoreapp2.1/palindrome.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/palindrome/obj/Debug/netcoreapp2.1/palindrome.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/palindrome/obj/Debug/netcoreapp2.1/palindrome.AssemblyInfo.cs
+/Users/kstanoev/programming/academy-alpha/net/strings/palindrome/obj/Debug/netcoreapp2.1/palindrome.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/palindrome/obj/Debug/netcoreapp2.1/palindrome.pdb

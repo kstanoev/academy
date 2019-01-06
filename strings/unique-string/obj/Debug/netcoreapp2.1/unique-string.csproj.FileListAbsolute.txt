@@ -1,0 +1,11 @@
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-string/bin/Debug/netcoreapp2.1/unique-string.deps.json
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-string/bin/Debug/netcoreapp2.1/unique-string.runtimeconfig.json
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-string/bin/Debug/netcoreapp2.1/unique-string.runtimeconfig.dev.json
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-string/bin/Debug/netcoreapp2.1/unique-string.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-string/bin/Debug/netcoreapp2.1/unique-string.pdb
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-string/obj/Debug/netcoreapp2.1/unique-string.csprojAssemblyReference.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-string/obj/Debug/netcoreapp2.1/unique-string.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-string/obj/Debug/netcoreapp2.1/unique-string.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-string/obj/Debug/netcoreapp2.1/unique-string.AssemblyInfo.cs
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-string/obj/Debug/netcoreapp2.1/unique-string.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/unique-string/obj/Debug/netcoreapp2.1/unique-string.pdb

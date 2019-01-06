@@ -1,0 +1,11 @@
+/Users/kstanoev/programming/academy-alpha/net/strings/immutability/bin/Debug/netcoreapp2.1/immutability.deps.json
+/Users/kstanoev/programming/academy-alpha/net/strings/immutability/bin/Debug/netcoreapp2.1/immutability.runtimeconfig.json
+/Users/kstanoev/programming/academy-alpha/net/strings/immutability/bin/Debug/netcoreapp2.1/immutability.runtimeconfig.dev.json
+/Users/kstanoev/programming/academy-alpha/net/strings/immutability/bin/Debug/netcoreapp2.1/immutability.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/immutability/bin/Debug/netcoreapp2.1/immutability.pdb
+/Users/kstanoev/programming/academy-alpha/net/strings/immutability/obj/Debug/netcoreapp2.1/immutability.csprojAssemblyReference.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/immutability/obj/Debug/netcoreapp2.1/immutability.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/immutability/obj/Debug/netcoreapp2.1/immutability.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/immutability/obj/Debug/netcoreapp2.1/immutability.AssemblyInfo.cs
+/Users/kstanoev/programming/academy-alpha/net/strings/immutability/obj/Debug/netcoreapp2.1/immutability.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/immutability/obj/Debug/netcoreapp2.1/immutability.pdb

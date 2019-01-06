@@ -1,0 +1,11 @@
+/Users/kstanoev/programming/academy-alpha/net/strings/duplicate-characters/bin/Debug/netcoreapp2.1/duplicate-characters.deps.json
+/Users/kstanoev/programming/academy-alpha/net/strings/duplicate-characters/bin/Debug/netcoreapp2.1/duplicate-characters.runtimeconfig.json
+/Users/kstanoev/programming/academy-alpha/net/strings/duplicate-characters/bin/Debug/netcoreapp2.1/duplicate-characters.runtimeconfig.dev.json
+/Users/kstanoev/programming/academy-alpha/net/strings/duplicate-characters/bin/Debug/netcoreapp2.1/duplicate-characters.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/duplicate-characters/bin/Debug/netcoreapp2.1/duplicate-characters.pdb
+/Users/kstanoev/programming/academy-alpha/net/strings/duplicate-characters/obj/Debug/netcoreapp2.1/duplicate-characters.csprojAssemblyReference.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/duplicate-characters/obj/Debug/netcoreapp2.1/duplicate-characters.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/duplicate-characters/obj/Debug/netcoreapp2.1/duplicate-characters.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/duplicate-characters/obj/Debug/netcoreapp2.1/duplicate-characters.AssemblyInfo.cs
+/Users/kstanoev/programming/academy-alpha/net/strings/duplicate-characters/obj/Debug/netcoreapp2.1/duplicate-characters.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/duplicate-characters/obj/Debug/netcoreapp2.1/duplicate-characters.pdb
