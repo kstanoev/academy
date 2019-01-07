@@ -1,0 +1,11 @@
+/Users/kstanoev/programming/academy-alpha/net/strings/substrings/bin/Debug/netcoreapp2.1/substrings.deps.json
+/Users/kstanoev/programming/academy-alpha/net/strings/substrings/bin/Debug/netcoreapp2.1/substrings.runtimeconfig.json
+/Users/kstanoev/programming/academy-alpha/net/strings/substrings/bin/Debug/netcoreapp2.1/substrings.runtimeconfig.dev.json
+/Users/kstanoev/programming/academy-alpha/net/strings/substrings/bin/Debug/netcoreapp2.1/substrings.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/substrings/bin/Debug/netcoreapp2.1/substrings.pdb
+/Users/kstanoev/programming/academy-alpha/net/strings/substrings/obj/Debug/netcoreapp2.1/substrings.csprojAssemblyReference.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/substrings/obj/Debug/netcoreapp2.1/substrings.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/substrings/obj/Debug/netcoreapp2.1/substrings.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/substrings/obj/Debug/netcoreapp2.1/substrings.AssemblyInfo.cs
+/Users/kstanoev/programming/academy-alpha/net/strings/substrings/obj/Debug/netcoreapp2.1/substrings.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/substrings/obj/Debug/netcoreapp2.1/substrings.pdb
