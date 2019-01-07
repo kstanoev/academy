@@ -1,0 +1,11 @@
+/Users/kstanoev/programming/academy-alpha/net/strings/reverse/bin/Debug/netcoreapp2.1/reverse.deps.json
+/Users/kstanoev/programming/academy-alpha/net/strings/reverse/bin/Debug/netcoreapp2.1/reverse.runtimeconfig.json
+/Users/kstanoev/programming/academy-alpha/net/strings/reverse/bin/Debug/netcoreapp2.1/reverse.runtimeconfig.dev.json
+/Users/kstanoev/programming/academy-alpha/net/strings/reverse/bin/Debug/netcoreapp2.1/reverse.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/reverse/bin/Debug/netcoreapp2.1/reverse.pdb
+/Users/kstanoev/programming/academy-alpha/net/strings/reverse/obj/Debug/netcoreapp2.1/reverse.csprojAssemblyReference.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/reverse/obj/Debug/netcoreapp2.1/reverse.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/reverse/obj/Debug/netcoreapp2.1/reverse.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/reverse/obj/Debug/netcoreapp2.1/reverse.AssemblyInfo.cs
+/Users/kstanoev/programming/academy-alpha/net/strings/reverse/obj/Debug/netcoreapp2.1/reverse.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/reverse/obj/Debug/netcoreapp2.1/reverse.pdb

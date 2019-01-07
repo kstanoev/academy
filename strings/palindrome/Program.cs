@@ -7,7 +7,7 @@ namespace palindrome {
             string input = Console.ReadLine ();
             bool palindrome = true;
             for (int i = 0, j = input.Length - 1; i <= j; i++, j--) {
-                Console.WriteLine ("comparing: " + input[i] + " and " + input[j]);
+                // Console.WriteLine ("comparing: " + input[i] + " and " + input[j]);
                 if (input[i] != input[j]) {
                     palindrome = false;
                     break;

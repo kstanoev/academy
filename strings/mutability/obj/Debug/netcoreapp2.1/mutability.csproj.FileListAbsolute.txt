@@ -1,0 +1,11 @@
+/Users/kstanoev/programming/academy-alpha/net/strings/mutability/bin/Debug/netcoreapp2.1/mutability.deps.json
+/Users/kstanoev/programming/academy-alpha/net/strings/mutability/bin/Debug/netcoreapp2.1/mutability.runtimeconfig.json
+/Users/kstanoev/programming/academy-alpha/net/strings/mutability/bin/Debug/netcoreapp2.1/mutability.runtimeconfig.dev.json
+/Users/kstanoev/programming/academy-alpha/net/strings/mutability/bin/Debug/netcoreapp2.1/mutability.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/mutability/bin/Debug/netcoreapp2.1/mutability.pdb
+/Users/kstanoev/programming/academy-alpha/net/strings/mutability/obj/Debug/netcoreapp2.1/mutability.csprojAssemblyReference.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/mutability/obj/Debug/netcoreapp2.1/mutability.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/mutability/obj/Debug/netcoreapp2.1/mutability.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/academy-alpha/net/strings/mutability/obj/Debug/netcoreapp2.1/mutability.AssemblyInfo.cs
+/Users/kstanoev/programming/academy-alpha/net/strings/mutability/obj/Debug/netcoreapp2.1/mutability.dll
+/Users/kstanoev/programming/academy-alpha/net/strings/mutability/obj/Debug/netcoreapp2.1/mutability.pdb
